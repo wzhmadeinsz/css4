@@ -1,0 +1,87 @@
+*{
+	background: rgba(239,240,244,1);
+}
+.header{
+	height: 90px;
+	width: 100%;
+	background:rgba(95,192,205,1);
+	color: white;
+	line-height: 90px;
+	text-align: center;
+	font-size: 2rem;
+}
+.header_exit{
+	height: 90px;
+	width: 20%;
+	background:rgba(95,192,205,1);
+	text-align: left;
+	margin-left: 30px;
+	line-height: 90px;
+	float: left;
+}
+.header_reg{
+	height: 90px;
+	width: 20%;
+	background:rgba(95,192,205,1);
+	text-align: right;
+	margin-right: 30px;
+	line-height: 90px;
+	float: right;
+}
+.contain{
+	background: rgba(239,240,244,1);
+	width: 100%;
+	
+}
+.contain_input{
+	margin-top: 18px;
+	height: 100px;
+	width: 100%;
+	background-color: white;
+}
+.contain_namein-pic{
+	width: 20%;
+	height: 60px;
+	border-right: 2px rgba(239,240,244,1) solid;
+	background : url(iphone.png) no-repeat center center;
+	margin: 20px 0;
+	float: left;
+}
+.contain_namein-in{
+	height: 60px;
+	width: 70%;
+	float: right;
+	border: none;
+	line-height: 60px;
+	font-size: 1.6rem;
+	margin: 20px 0;
+	background: white;
+}
+.contain_keyin-pic{
+	width: 20%;
+	height: 60px;
+	border-right: 2px rgba(239,240,244,1) solid;
+	background : url(locked-2.png) no-repeat center center;
+	margin: 20px 0;
+	float: left;
+}
+.contain_keyin-in{
+	height: 60px;
+	width: 70%;
+	float: right;
+	border: none;
+	line-height: 60px;
+	font-size: 1.6rem;
+	margin: 20px 0;
+	background: white;
+}
+.contain_login{
+	margin-top: 70px;
+	height: 100px;
+	width: 100%;
+	background-color: rgba(95,192,205,1);
+	text-align: center;
+	line-height: 100px;
+	font-size: 1.8rem;
+	color: white;
+}
